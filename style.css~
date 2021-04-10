@@ -9,4 +9,11 @@ h1 {
   font-size: 3rem;
 }
 
-img {}
+img {
+  vertical-align: middle;
+  width: 100px;
+}
+
+p {
+  color: #777;
+}
