@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>I <img src=""> JAMstack</h1>
+    <h1>I <img src="hearth.svg"> JAMstack</h1>
     <p>Share your though or question on this amazing new web architecture</p>
   </body>
 </html>
